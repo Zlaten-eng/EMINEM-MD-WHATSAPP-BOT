@@ -9,14 +9,14 @@ module.exports = async (context) => {
             const fs = require("fs");
 
             // Check if the message is quoted and contains an image
-            if (!msgKeith) {
+            if (!msgEminem) {
                 m.reply('Quote an image...');
                 return;
             }
 
             let media;
-            if (msgKeith.imageMessage) {
-                media = msgKeith.imageMessage;
+            if (msgEminem.imageMessage) {
+                media = msgEminem.imageMessage;
             } else {
                 m.reply('This is not an image...');
                 return;

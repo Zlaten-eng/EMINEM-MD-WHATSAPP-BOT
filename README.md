@@ -6,7 +6,6 @@
 </h1>
 
 <div style="text-align: center;">
-  href="https://ibb.co/N6NMDtn">
     <img src="https://files.catbox.moe/i0s7d2.jpg" alt="01" border="0"></a>
   <hr style="margin-top: 20px; margin-bottom: 20px;">
 </div>

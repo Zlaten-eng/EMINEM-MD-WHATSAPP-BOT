@@ -2,7 +2,7 @@
  
 <h1 align="center">EMINEM-𝗠𝗗</h1>
 
-<h1 align="center">Survival is winning,  everything else is bullshit, fairy tales spun by people afraid to look life in the eye, do whatever it takes kid, survive.
+<h1 align="center">Life is not a spectator sport. If you're going to spend your whole life in the grandstand just watching what goes on, in my opinion you're wasting your life.
 </h1>
 
 <div style="text-align: center;">

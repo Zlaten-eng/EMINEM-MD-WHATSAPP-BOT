@@ -1,5 +1,5 @@
-# EMINEM-MD-WHATSAPP-BOT
-Simple whatsapp bot to automate daily actions 
+<h1 align="center"># EMINEM-MD-WHATSAPP-BOT</h1>
+ 
 <h1 align="center">EMINEM-𝗠𝗗</h1>
 
 <h1 align="center">Survival is winning,  everything else is bullshit, fairy tales spun by people afraid to look life in the eye, do whatever it takes kid, survive.

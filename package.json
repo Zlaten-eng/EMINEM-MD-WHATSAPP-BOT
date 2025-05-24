@@ -1,5 +1,5 @@
 {
-  "name": "KEITH-MD",
+  "name": "EMINEM-MD",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "index.js",
@@ -13,8 +13,8 @@
     "baileys-md",
     "whatsapp-multi-device"
   ],
-  "author": "keith",
-  "license": "MIT",
+  "author": "toxyic",
+  "license": "GNU",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",   
     "@google/generative-ai": "^0.1.3",
